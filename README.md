@@ -10,13 +10,10 @@ A dynamic and interactive data visualization to explore Coffee shop sales data, 
 
 The dashboard was built using the following technologies:
 
-Microsoft Excel - Used for creating charts, slicers, and dashboards.
-
-Microsoft Power Query - Used for data cleaning, formatting, and Data modeling.
-
-Microsoft Power Pivot - Used For Data formatting and modeling.
-
-DAX - Used for calculating measures.
+**Microsoft Excel** - Used for creating charts, slicers, and dashboards.
+**Microsoft Power Query **- Used for data cleaning, formatting, and Data modeling.
+**Microsoft Power Pivot** - Used For Data formatting and modeling.
+**DAX **- Used for calculating measures.
 
 
 **Data Source:**
