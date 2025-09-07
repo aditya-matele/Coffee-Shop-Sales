@@ -2,10 +2,10 @@
 A dynamic and interactive data visualization to explore Coffee shop sales data, focusing on Store Locations comparison, Product Categories, and Size distribution.
 
 
-Coffee Shop Sales Dashboard is a visually engaging and analytical Excel Dashboard report designed to help users explore and compare various types of product categories and product types and their sales across store locations. The dashboard focuses on highlighting the key performance indicators, such as footfall and average orders throughout the month/weekdays.
+**Coffee Shop Sales Dashboard** is a visually engaging and analytical Excel Dashboard report designed to help users explore and compare various types of product categories and product types and their sales across store locations. The dashboard focuses on highlighting the key performance indicators, such as footfall and average orders throughout the month/weekdays.
 
 
-**Tools Used: **
+**Tools Used:**
 
 The dashboard was built using the following technologies:
 Microsoft Excel
@@ -18,4 +18,5 @@ DAX - Used for calculating measures.
 
 I have used the following dataset using Maven Analytics Data Playground:
 https://app.mavenanalytics.io/datasets
+
 
